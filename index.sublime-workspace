@@ -1,0 +1,280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"btn",
+				"btn_listener"
+			],
+			[
+				"target",
+				"target1"
+			],
+			[
+				"insert",
+				"insertAdjacentHTML"
+			],
+			[
+				"callIN",
+				"callInsertBefore"
+			],
+			[
+				"gr",
+				"groupEnd"
+			],
+			[
+				"getEle",
+				"getElementsByTagName"
+			],
+			[
+				"Su",
+				"Super"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/pakji/Desktop/proj/abcdef/index.html",
+		"/C/Users/pakji/Desktop/proj/abcdef/README.md",
+		"/C/Users/pakji/Desktop/proj/git/index.html",
+		"/C/Users/pakji/Documents/git/.gitignore",
+		"/C/Users/pakji/Desktop/javascript/jqueryAjax.html",
+		"/C/Users/pakji/Desktop/javascript/jqueryevent.html",
+		"/C/Users/pakji/Desktop/javascript/time.php",
+		"/C/Users/pakji/Desktop/javascript/time2.php",
+		"/C/Users/pakji/Desktop/javascript/ajax2.html",
+		"/C/Users/pakji/Desktop/javascript/ajax1.html",
+		"/C/Users/pakji/Desktop/javascript/jqueryapioff.html",
+		"/C/Users/pakji/Desktop/javascript/jqueryapi2.html",
+		"/C/Users/pakji/Desktop/javascript/onapi.html",
+		"/C/Users/pakji/Desktop/javascript/mouse.html",
+		"/C/Users/pakji/Desktop/javascript/jqueryApi.html",
+		"/C/Users/pakji/Desktop/javascript/change.html",
+		"/C/Users/pakji/Desktop/javascript/load.html",
+		"/C/Users/pakji/Desktop/javascript/blur.html",
+		"/C/Users/pakji/Desktop/javascript/memo.memo",
+		"/C/Users/pakji/Desktop/javascript/form.html",
+		"/C/Users/pakji/Desktop/javascript/eventprevent.html",
+		"/C/Users/pakji/Desktop/javascript/sd.html",
+		"/C/Users/pakji/Desktop/javascript/bubbling.html",
+		"/C/Users/pakji/Desktop/javascript/capturing.html",
+		"/C/Users/pakji/Desktop/javascript/propertylisener.html",
+		"/C/Users/pakji/Desktop/javascript/event.html",
+		"/C/Users/pakji/Desktop/javascript/scroll.html",
+		"/C/Users/pakji/Desktop/javascript/getBoundingClientRect.html",
+		"/C/Users/pakji/Desktop/javascript/nodeValue.html",
+		"/C/Users/pakji/Desktop/javascript/insertAdjacentHtml.html",
+		"/C/Users/pakji/Desktop/javascript/innerHtml.html",
+		"/C/Users/pakji/Desktop/javascript/jquery_node.html",
+		"/C/Users/pakji/Desktop/javascript/node_append.html",
+		"/C/Users/pakji/Desktop/javascript/node1.html",
+		"/C/Users/pakji/Desktop/javascript/nodetype.html",
+		"/C/Users/pakji/Desktop/javascript/jqeuryApi2.html",
+		"/C/Users/pakji/Desktop/javascript/jqueryprop.html",
+		"/C/Users/pakji/Desktop/javascript/attribute.html",
+		"/C/Users/pakji/Desktop/javascript/bom.html",
+		"/C/Users/pakji/Desktop/javascript/getElementsBy.html",
+		"/C/Users/pakji/Desktop/javascript/element.html",
+		"/C/Users/pakji/Desktop/javascript/jquery3.html",
+		"/C/Users/pakji/Desktop/javascript/htmlcollection.html",
+		"/C/Users/pakji/Desktop/javascript/HtmlElement.html",
+		"/C/Users/pakji/Desktop/javascript/jquery2.html",
+		"/C/Users/pakji/Desktop/javascript/jquery1.html",
+		"/C/Users/pakji/Desktop/javascript/jqeury.html",
+		"/C/Users/pakji/Desktop/javascript/queryselector.html",
+		"/C/Users/pakji/Desktop/javascript/getElementsById.html",
+		"/C/Users/pakji/Desktop/javascript/getElementsByClassName.html",
+		"/C/Users/pakji/Desktop/javascript/getElementsByTagName.html",
+		"/C/Users/pakji/Desktop/javascript/demo2.html",
+		"/C/Users/pakji/Desktop/javascript/inline.html",
+		"/C/Users/pakji/Desktop/javascript/demo.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/object.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/closure.htm",
+		"/C/Users/pakji/Desktop/박지훈/javascript/this",
+		"/C/Users/pakji/Desktop/박지훈/javascript/reference.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/start'.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/wrapper.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/inheritance.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/builtin.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/prototype.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/this.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/global.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/public.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/jquery.demo.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/jquery.js",
+		"/C/Users/pakji/Desktop/박지훈/javascript/dictionary.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/function1.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/greeting.js",
+		"/C/Users/pakji/Desktop/박지훈/javascript/main.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/node.demo.js",
+		"/C/Users/pakji/Desktop/박지훈/javascript/node.circle.js",
+		"/C/Users/pakji/Desktop/박지훈/javascript/pattern.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/ex5.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/ex9.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/demo1.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/g.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/s.html",
+		"/C/Users/pakji/Desktop/박지훈/javascript/s",
+		"/C/Users/pakji/Desktop/박지훈/javascript/variable_4674/demo1.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 40.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
